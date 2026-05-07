@@ -1,6 +1,6 @@
 # 👋 Bienvenida al Laboratorio de Auditoría de Seguridad
 
-**Materia:** Desarrollo de Software Seguro  
+**Materia:** Desarrollo de Software Seguroo  
 **Docente:** Rodrigo Ramírez  
 **Facultad de Telemática - Universidad de Colima**  
 
